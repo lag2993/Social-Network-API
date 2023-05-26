@@ -1,0 +1,17 @@
+{
+    "name": "18-02-Challenge",
+    "version": "1.0.0",
+    "main": "server.js",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^6.0.13"
+    },
+    "devDependencies": {
+      "nodemon":"2.0.22"
+    },
+    "scripts": {
+      "start": "node server.js",
+      "watch":"nodemon"
+    }
+  }
